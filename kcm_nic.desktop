@@ -1,0 +1,42 @@
+[Desktop Entry]
+Exec=kcmshell4 kcm_nic
+Icon=modem
+Type=Service
+X-KDE-ServiceTypes=KCModule
+
+X-KDE-Weight=0
+X-KDE-Library=kcm_nic
+X-KDE-ParentApp=kinfocenter
+X-KDE-KInfoCenter-Category=network_information
+
+Name=Network Interfaces
+Name[cs]=Síťová rozhraní
+Name[de]=Netzwerkschnittstellen
+Name[en_GB]=Network Interfaces
+Name[es]=Interfaces de red
+Name[fr]=Interfaces réseau
+Name[nb]=Nettverksgrensesnitt
+Name[nl]=Netwerkinterfaces
+Name[nn]=Nettverksgrensesnitt
+Name[pt]=Interfaces de Rede
+Name[pt_BR]=Interfaces de rede
+Name[sv]=Nätverksgränssnitt
+Name[tr]=Ağ Arayüzleri
+Name[uk]=Інтерфейси мережі
+Name[x-test]=xxNetwork Interfacesxx
+
+Comment=Network Interfaces
+Comment[de]=Netzwerkschnittstellen
+Comment[en_GB]=Network Interfaces
+Comment[es]=Interfaces de red
+Comment[nl]=Netwerkinterfaces
+Comment[pt]=Interfaces de Rede
+Comment[pt_BR]=Interfaces de rede
+Comment[sv]=Nätverksgränssnitt
+Comment[tr]=Ağ Arayüzleri
+Comment[uk]=Інтерфейси мережі
+Comment[x-test]=xxNetwork Interfacesxx
+
+X-KDE-Keywords=device,devices
+X-DocPath=kinfocenter/index.html#kcm_nic
+Categories=Qt;KDE;X-KDE-information;
